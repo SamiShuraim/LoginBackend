@@ -1,3 +1,5 @@
+// https://lucid.app/lucidchart/362ac097-3f4a-40d5-bfaf-5c3c9bb5af82/edit?beaconFlowId=2B53C647ACE44AB9&page=0_0&invitationId=inv_ceb0ae1a-85c8-45e3-bb77-68b189d9a869#
+// https://lucid.app/lucidchart/b79f1ba4-9c48-47c0-b85d-e85dd7a07c8c/edit?beaconFlowId=297A22F2FE9FB6B0&invitationId=inv_7f394199-45d1-479b-b5e8-5a617bbe803f&page=0_0#
 var builder = WebApplication.CreateBuilder(args);
 
 builder.WebHost.ConfigureKestrel(serverOptions =>
